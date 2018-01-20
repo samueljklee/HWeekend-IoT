@@ -1,0 +1,22 @@
+{
+  "name": "hweekend",
+  "version": "1.0.0",
+  "description": "IoT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anish-94/HWeekend-IoT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anish-94/HWeekend-IoT/issues"
+  },
+  "homepage": "https://github.com/anish-94/HWeekend-IoT#readme",
+  "devDependencies": {
+    "onoff": "^1.1.9"
+  }
+}
