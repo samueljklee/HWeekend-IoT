@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/anish-94/HWeekend-IoT#readme",
   "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "onoff": "^1.1.9"
   }
 }
